@@ -1,0 +1,13 @@
+*
+!Makefile
+!*.*
+instr.qws
+instr.qpf
+instr.qsf
+*.o
+*.vcd
+*-obj93.cf
+!*/*
+!fsm
+!display
+!general
